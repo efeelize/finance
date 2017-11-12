@@ -1,0 +1,18 @@
+一、市场规模和活跃程度的测量
+不同的度量值计算着每天交易结束后头寸的数目（敞口权益），以及这些头寸的价值（市场价值）和规模（名义价值）
+
+trading volume 统计每日或者每年金融索偿权的换手数目，BUT INFORMAL，
+cuz 可以通过对金融索偿权的重新定义改变
+
+open interest
+度量处于敞口的合约综述，ie.inclu:履行支付或交割证券债务的头寸的合约总数。
+
+market value
+交易所列出的金融索偿权的市场价值，ie。无需考虑已经交易过与否就可以用于交易的索偿权啊算了的市场价值加总
+
+notional value
+度量一些标的的资产头寸的规模
+eg: A corp stock=100$
+   if have 将来购买100份 A Corp 的衍生品合约
+   else notional value=100 A corp stock
+   
