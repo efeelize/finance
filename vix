@@ -7,10 +7,7 @@ I
 入/ 抛出需求更小
 
  ie if: td/vix =30    else:投资者普遍预期未来30d，S&P 500的年化波动率为30% （VIX 是一个%比）
-
-
  年化：1m 从股市赚取了5%的利润，假设每个月都有相同的收益率，则当月收益的年华收益率为5%*12=60%
-
 
 
 II. prons
@@ -19,25 +16,20 @@ II. prons
   if 始终维持在10-15, 消减多头头寸进行避险
 
   else if >30  ||  >50,市场已经进入极度恐慌的局面
-
   else if 未来市场可能大波动或者大幅趋于平缓的时候，做多或做空VIX 指数期货
 
 
 2.提供避险衍生品
-
   eg:1)CBOE provided:VIX指数期货
                      VIX看涨看跌期权
 
-
      2) IPATH provided:ETF-IPath S&P(VXX) EFT恐慌指数
                        ETF-IPath S&P(VXZ)中期期货波动率指数
-
+	:
      3)Proshare provided:（VIXY）短期期货波动率指数 EFT
 
 
-
-III.cons
-   
+III.cons   
     Au/Ag可以部分代替 VIX，作为对冲基金中的避险工具
 
 
